@@ -1,2 +1,2 @@
-# Libre-
+# Libre+
 Libre+ Web App
